@@ -10,6 +10,12 @@
     <a href="https://twitter.com/ssamadgh" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-@ssamadgh-blue.svg?style=flat" alt="ssamadgh Twitter">
     </a>
+        </a>
+    </a>
+    <a href="https://www.linkedin.com/in/ssamadgh" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-ssamadgh-blue.svg?style=flat" alt="ssamadgh Linkedin">
+    </a>
+
 </p>
 
 ## Advanced Operation Sample in Swift
