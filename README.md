@@ -20,9 +20,23 @@
 
 ## Advanced Operation Sample in Swift
 
-This a sample code of using Advanced operation in swift.
+This is a sample code of using Advanced operation in swift.
 
 The base sample code is taken from [NSOperation and NSOperationQueue Tutorial in Swift - Ray Wenderlich](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) and rewrited with using Advanced operation library of [Advanced NSOperations - WWDC 2015 - Session 226](https://developer.apple.com/videos/play/wwdc2015/226/).
+
+## Demo
+### The Starter Project
+
+![Session](./Demo/ClassicPhoto_Starter_E.gif)
+
+### The Ray Wenderlich Version Completed project
+
+![Session](./Demo/ClassicPhoto_Completed_E.gif)
+
+### The Advanced Operation Version Completed Project
+
+![Session](./Demo/ClassicPhoto_AdvancedOperation_E.gif)
+
 
 ## How to use This Sample
 ### For learning
