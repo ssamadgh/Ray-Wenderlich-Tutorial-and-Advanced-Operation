@@ -20,9 +20,12 @@
 
 ## Advanced Operation Sample in Swift
 
+<<<<<<< HEAD
 This is a sample code of using Advanced operation in swift.
+=======
+This is a sample code about using Advanced operation in swift.
 
-The base sample code is taken from [NSOperation and NSOperationQueue Tutorial in Swift - Ray Wenderlich](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) and rewrited with using Advanced operation library of [Advanced NSOperations - WWDC 2015 - Session 226](https://developer.apple.com/videos/play/wwdc2015/226/).
+The base sample code is taken from [NSOperation and NSOperationQueue Tutorial in Swift - Ray Wenderlich](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) and rewrited by using Advanced operation library of [Advanced NSOperations - WWDC 2015 - Session 226](https://developer.apple.com/videos/play/wwdc2015/226/).
 
 ## Demo
 ### The Starter Project
@@ -40,10 +43,10 @@ The base sample code is taken from [NSOperation and NSOperationQueue Tutorial in
 
 ## How to use This Sample
 ### For learning
-First of all, if you haven't enough expriment about using operations in swift, have a look to raywenderlich tutorial. the starter and completed sample codes of [raywenderlich tutorial](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) are exist in this sample codes for comparing with advanced operation library using. they are updated to swift 4 syntax and you can use the if you want some help.
+First of all, if you haven't enough expriment about using operations in swift, have a look to raywenderlich tutorial. the starter and completed of [raywenderlich tutorial](https://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift) sample codes are exist in this sample codes for comparing with advanced operation version. all sample codes are updated to swift 4 syntax.
 
-Next compare ClassicPhotos with Advanced Operation and 
-raywenderlich tutorial. look at differents in codes and runing. for more information about using advanced operation watch [Advanced NSOperations - WWDC 2015 - Session 226 Video](https://developer.apple.com/videos/play/wwdc2015/226/).
+Next, compare ClassicPhotos written with Advanced Operation and 
+ClassicPhotos app created by raywenderlich tutorial. look at differences in codes and runing. for more information about using advanced operation watch [Advanced NSOperations - WWDC 2015 - Session 226 Video](https://developer.apple.com/videos/play/wwdc2015/226/).
 
 You will see:
 
